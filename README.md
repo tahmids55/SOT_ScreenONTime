@@ -1,4 +1,4 @@
-# SOT_ScreenONTime
+# SOT_ScreenONTime for linux
 Have some bug , on development stages
 #TO RUN 
 -> install python 
